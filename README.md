@@ -1,5 +1,4 @@
-# praveenoruganti-multithreading
- Praveen Oruganti MultiThreading
+# All About MultiThreading
 
 
 ### [Buy me a Book](https://bit.ly/388sUbE)
